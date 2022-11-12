@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body{
+
+    font-family: 'Roboto', sans-serif;
+
+    /* imagen de fondo  */
+    background-image: url("https://64.media.tumblr.com/90745e74ce8cd00b89f7d03370c67f40/9e262ae8cfde02ea-c0/s500x750/e7afbc1acce301cc47f85ebe5a8dc84ed6d9d633.gif");
+    background-size: 50%;
+}
+
+h2{
+    /* texto h2 */
+
+    font-size: 150%;
+    color: #7bff00;
+    text-align: center;
+    font-weight: 100%;
+    text-transform: uppercase;
+}
+
+h3{
+     /* texto h3 */
+
+    font-size: 85%;
+    color:#00ec4f;
+    text-align: center;
+    vertical-align: text-bottom;
+    text-transform: uppercase;
+    margin-top: 205px;
+}
+
+
+button{
+    /* botones */
+
+    background-color:#000000;
+    font-size: 100%;
+    color:#00ec4f;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1px 2px;
+    border: 2px solid #00ff2a;
+    border-radius: 50px;
+    margin-top: 25px;
+}
+
+section{
+    /* seccion de la pagina  */
+
+    width: 100%;
+    height: 300%;
+    background-color: linear-gradient(#00d9e0,#7e9e99);
+
+}
